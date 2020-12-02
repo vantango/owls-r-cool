@@ -1,0 +1,14 @@
+body {
+    background-color: rebeccapurple;
+    border: black;
+}
+
+p   {
+    text-align: right;
+}
+
+
+.img {
+    position: static;
+    border-color: black;
+}
